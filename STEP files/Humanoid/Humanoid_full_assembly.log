@@ -1,6 +1,6 @@
-Solid Edge Translation to STEP
-Date: Saturday,May 20,2023 07:55pm
-Output File: C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\Humanoid_full_assembly.stp
+STEP translation to Solid Edge
+Date: Saturday,May 20,2023 09:59pm
+Source File: C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\Humanoid_full_assembly.stp
 Author: Unknown
 Organization: Unknown
 Source System: Solid Edge
@@ -16,16 +16,569 @@ PSBodyShop Version: 35.0.82
 Step Adapter Version: 11.0.82
 Solid Edge Version: 223.00.00.101 x64
 
-STEP Export Options
-Export Format: AP214
-Export Construction Sheets: Off
-Export Construction Solids: Off
-Export Construction Wires: Off
-Export Displayed Parts Only: Off
-Export Units: Millimeters
-Export Part Component Names As Unicode: Off
-Export PMI: Off
+Step Import Options
+Import Faceted Bodies: On
+Import Check Bodies: Off
+Import Curves: On
+Import DoNotSave: On
+Import Multiple Bodies As Single Part File: On
+Import Stitch Surfaces: On
+Import Boolean Solids: On
+Make Base Feature: On
+Simplify Geometry: On
+Import Imprint Curves: On
+Import Drive: C:
+Import Stitch Surfaces: On
+Import Surfaces: On
+Import Output Path: C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid
+Import Enable Default Output Path: On
+Import PMI: Off
+Import As Internal Components: Off
+Import Path: 
 
-Phase 1 of 1 Translating Parasolid to foreign data types...
+Translating to Parasolid data types...
++Begin Assembly: 1
++Created SE Assembly File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\Humanoid_full_assembly.asm
+|--+Begin Assembly: 2
+|--+Created SE Assembly File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\motor_mount_0.asm
+|  |--+Created SE Part File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\motor_mount_back_0.par
+|  |--+Created SE Part File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\motor_mount_front_0.par
+|  |--+Created SE Part File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\motor_mount_side_0.par
+|  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\motor_mount_side_0.par
+|  |--+Created SE Part File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\BDSG-37-40-R150_motor.stp_0.par
+|  |--+Created SE Part File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\wheel_mock-up_0.par
+|  |--+Created SE Part File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\hexa csunk flathd screw_iso_ISO 14581 M3x8x8-N_0.par
+|  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\hexa csunk flathd screw_iso_ISO 14581 M3x8x8-N_0.par
+|  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\hexa csunk flathd screw_iso_ISO 14581 M3x8x8-N_0.par
+|  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\hexa csunk flathd screw_iso_ISO 14581 M3x8x8-N_0.par
+|  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\hexa csunk flathd screw_iso_ISO 14581 M3x8x8-N_0.par
+|  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\hexa csunk flathd screw_iso_ISO 14581 M3x8x8-N_0.par
+|--+Total Parts: 18
+|--+Assemblies: 0
+|--+Solid Bodies: 18
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\motor_mount_0.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\motor_mount_0.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Created SE Part File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\PCB_shape_0.par
+|--+Begin Assembly: 2
+|--+Created SE Assembly File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\camera_holder_module_0.asm
+|  |--+Created SE Part File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\camera_side_support_left_0.par
+|  |--+Created SE Part File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\camera_side_support_right_0.par
+Bodies: 0
+|  |--+Created SE Part File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\camera_back_plate_0.par
+Bodies: 0
+|  |--+Created SE Part File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\Realsense_D435.stp_0.par
+|  |--+Created SE Part File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\hexa csunk flathd screw_iso_ISO 14581 M3x16x16-N_0.par
+|  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\hexa csunk flathd screw_iso_ISO 14581 M3x16x16-N_0.par
+|  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\hexa csunk flathd screw_iso_ISO 14581 M3x16x16-N_0.par
+|  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\hexa csunk flathd screw_iso_ISO 14581 M3x16x16-N_0.par
+|  |--+Created SE Part File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\hex thin nut chamfered gradeab_iso_ISO - 4035 - M3 - N_0.par
+|  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\hex thin nut chamfered gradeab_iso_ISO - 4035 - M3 - N_0.par
+|--+Total Parts: 14
+|--+Assemblies: 0
+|--+Solid Bodies: 14
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Created SE Assembly File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\nuc_holder_module_0.asm
+|  |--+Created SE Part File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\nuc_holder_lower_0.par
+|  |--+Created SE Part File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\nuc_holder_upper_0.par
+|  |--+Created SE Part File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\spacer_6mm_0.par
+|  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\spacer_6mm_0.par
+|  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\spacer_6mm_0.par
+|  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\spacer_6mm_0.par
+|  |--+Created SE Part File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\spacer_40mm_0.par
+|  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\spacer_40mm_0.par
+|  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\spacer_40mm_0.par
+|  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\spacer_40mm_0.par
+|  |--+Begin Assembly: 3
+|  |--+Created SE Assembly File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\NUC12WSK.STEP_0.asm
+|  |  |--+Begin Assembly: 4
+|  |  |--+Created SE Assembly File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\WS_SHORT_ME_3D-20211122.stp.STEP_0.asm
+|  |  |  |--+Begin Assembly: 5
+|  |  |  |--+Created SE Assembly File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\WS_ME_PLACEMENT_ASM_ASM.stp.STEP_0.asm
+|  |  |  |  |--+Begin Assembly: 6
+|  |  |  |  |--+Created SE Assembly File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\WS_ME_SHORT_ASSY_ASM.stp.STEP_0.asm
+|  |  |  |  |  |--+Begin Assembly: 7
+|  |  |  |  |  |--+Created SE Assembly File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\WS_TOP_COVER_ASM_ASM.stp.STEP_0.asm
+|  |  |  |  |  |  |--+Created SE Part File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\WS_TOP_COVER_C.stp.STEP_0.par
+|  |  |  |  |  |--+Total Parts: 2
+|  |  |  |  |  |--+Assemblies: 0
+|  |  |  |  |  |--+Solid Bodies: 2
+|  |  |  |  |  |--+Sheet Bodies: 0
+|  |  |  |  |  |--+End Assembly: 7
+|  |  |  |  |  |--+Begin Assembly: 7
+|  |  |  |  |  |--+Created SE Assembly File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\WS_SHORT_TOP_SHIELD_ASM_ASM.stp.STEP_0.asm
+|  |  |  |  |  |  |--+Begin Assembly: 8
+|  |  |  |  |  |  |--+Created SE Assembly File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\WS_PW_LED_MYLAR_ASM.stp.STEP_0.asm
+|  |  |  |  |  |  |  |--+Created SE Part File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\WS_TOP_SHIELD_PW_MYLAR.stp.STEP_0.par
+|  |  |  |  |  |  |  |--+Created SE Part File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\WS_TOP_SHIELD_PW_MYLAR_S.stp.STEP_0.par
+|  |  |  |  |  |  |--+Total Parts: 4
+|  |  |  |  |  |  |--+Assemblies: 0
+|  |  |  |  |  |  |--+Solid Bodies: 4
+|  |  |  |  |  |  |--+Sheet Bodies: 0
+|  |  |  |  |  |  |--+End Assembly: 8
+|  |  |  |  |  |  |--+Created SE Part File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\WS_SHORT_TOP_SHIELD_T.stp.STEP_0.par
+|  |  |  |  |  |  |--+Created SE Part File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\TN_TOP_SHIELD_STANDOFF_2.stp.STEP_0.par
+|  |  |  |  |  |  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\TN_TOP_SHIELD_STANDOFF_2.stp.STEP_0.par
+|  |  |  |  |  |  |--+Created SE Part File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\WS_TOP_SHIELD_STANDOFF_1_STUDY.stp.STEP_0.par
+|  |  |  |  |  |  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\WS_TOP_SHIELD_STANDOFF_1_STUDY.stp.STEP_0.par
+|  |  |  |  |  |  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\WS_TOP_SHIELD_STANDOFF_1_STUDY.stp.STEP_0.par
+|  |  |  |  |  |  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\WS_TOP_SHIELD_STANDOFF_1_STUDY.stp.STEP_0.par
+|  |  |  |  |  |--+Total Parts: 11
+|  |  |  |  |  |--+Assemblies: 1
+|  |  |  |  |  |--+Solid Bodies: 10
+|  |  |  |  |  |--+Sheet Bodies: 0
+|  |  |  |  |  |--+End Assembly: 7
+|  |  |  |  |  |--+Begin Assembly: 7
+|  |  |  |  |  |--+Created SE Assembly File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\WS_SHORT_MID_FRAME_ASM_ASM.stp.STEP_0.asm
+|  |  |  |  |  |  |--+Begin Assembly: 8
+|  |  |  |  |  |  |--+Created SE Assembly File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\WS_PW_BUTTON_ASSY_C_ASM.stp.STEP_0.asm
+|  |  |  |  |  |  |  |--+Created SE Part File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\WS_PW_BUTTON_C.stp.STEP_0.par
+|  |  |  |  |  |  |--+Total Parts: 2
+|  |  |  |  |  |  |--+Assemblies: 0
+|  |  |  |  |  |  |--+Solid Bodies: 2
+|  |  |  |  |  |  |--+Sheet Bodies: 0
+|  |  |  |  |  |  |--+End Assembly: 8
+|  |  |  |  |  |  |--+Begin Assembly: 8
+|  |  |  |  |  |  |--+Created SE Assembly File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\WS_TOP_SHIELD_PW_SPONGE_ASM.stp.STEP_0.asm
+|  |  |  |  |  |  |  |--+Created SE Part File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\WS_TOP_SHIELD_PW_SPONGE.stp.STEP_0.par
+|  |  |  |  |  |  |  |--+Created SE Part File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\WS_TOP_SHIELD_PW_SPONGE_M.stp.STEP_0.par
+|  |  |  |  |  |  |  |--+Created SE Part File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\WS_TOP_SHIELD_PW_SPONGE_2.stp.STEP_0.par
+|  |  |  |  |  |  |--+Total Parts: 6
+|  |  |  |  |  |  |--+Assemblies: 0
+|  |  |  |  |  |  |--+Solid Bodies: 6
+|  |  |  |  |  |  |--+Sheet Bodies: 0
+|  |  |  |  |  |  |--+End Assembly: 8
+|  |  |  |  |  |  |--+Created SE Part File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\WS_SHORT_MID_FRAME_C.stp.STEP_0.par
+|  |  |  |  |  |  |--+Created SE Part File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\TN_SCREW_M2-5L4.stp.STEP_0.par
+|  |  |  |  |  |  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\TN_SCREW_M2-5L4.stp.STEP_0.par
+|  |  |  |  |  |  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\TN_SCREW_M2-5L4.stp.STEP_0.par
+|  |  |  |  |  |  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\TN_SCREW_M2-5L4.stp.STEP_0.par
+|  |  |  |  |  |  |--+Created SE Part File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\TN_SHORT_MESH.stp.STEP_0.par
+|  |  |  |  |  |  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\TN_SHORT_MESH.stp.STEP_0.par
+|  |  |  |  |  |--+Total Parts: 12
+|  |  |  |  |  |--+Assemblies: 2
+|  |  |  |  |  |--+Solid Bodies: 10
+|  |  |  |  |  |--+Sheet Bodies: 0
+|  |  |  |  |  |--+End Assembly: 7
+|  |  |  |  |  |--+Begin Assembly: 7
+|  |  |  |  |  |--+Created SE Assembly File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\WS_SHORT_BTM_BKT_ALL_ASM.stp.STEP_0.asm
+|  |  |  |  |  |  |--+Begin Assembly: 8
+|  |  |  |  |  |  |--+Created SE Assembly File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\WS_ST_BTM_BKT_MYLAR_ASM.stp.STEP_0.asm
+|  |  |  |  |  |  |  |--+Created SE Part File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\WS_ST_BTM_BKT_MYLAR.stp.STEP_0.par
+|  |  |  |  |  |  |  |--+Created SE Part File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\WS_ST_BTM_BKT_AL_FOIL.stp.STEP_0.par
+|  |  |  |  |  |  |  |--+Created SE Part File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\WS_ST_BTM_BKT_MYLAR_1.stp.STEP_0.par
+|  |  |  |  |  |  |  |--+Created SE Part File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\WS_ST_BTM_BKT_AL_FOIL_1.stp.STEP_0.par
+|  |  |  |  |  |  |  |--+Created SE Part File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\WS_ST_BTM_BKT_AL_FOIL_2.stp.STEP_0.par
+|  |  |  |  |  |  |  |--+Created SE Part File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\WS_ST_BTM_BKT_AL_FOIL_3.stp.STEP_0.par
+|  |  |  |  |  |  |--+Total Parts: 12
+|  |  |  |  |  |  |--+Assemblies: 0
+|  |  |  |  |  |  |--+Solid Bodies: 12
+|  |  |  |  |  |  |--+Sheet Bodies: 0
+|  |  |  |  |  |  |--+End Assembly: 8
+|  |  |  |  |  |  |--+Begin Assembly: 8
+|  |  |  |  |  |  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\WS_ST_BTM_BKT_MYLAR_ASM.stp.STEP_0.asm
+|  |  |  |  |  |  |--+Total Parts: 0
+|  |  |  |  |  |  |--+Assemblies: 0
+|  |  |  |  |  |  |--+Solid Bodies: 0
+|  |  |  |  |  |  |--+Sheet Bodies: 0
+|  |  |  |  |  |  |--+End Assembly: 8
+|  |  |  |  |  |  |--+Begin Assembly: 8
+|  |  |  |  |  |  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\WS_ST_BTM_BKT_MYLAR_ASM.stp.STEP_0.asm
+|  |  |  |  |  |  |--+Total Parts: 0
+|  |  |  |  |  |  |--+Assemblies: 0
+|  |  |  |  |  |  |--+Solid Bodies: 0
+|  |  |  |  |  |  |--+Sheet Bodies: 0
+|  |  |  |  |  |  |--+End Assembly: 8
+|  |  |  |  |  |  |--+Begin Assembly: 8
+|  |  |  |  |  |  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\WS_ST_BTM_BKT_MYLAR_ASM.stp.STEP_0.asm
+|  |  |  |  |  |  |--+Total Parts: 0
+|  |  |  |  |  |  |--+Assemblies: 0
+|  |  |  |  |  |  |--+Solid Bodies: 0
+|  |  |  |  |  |  |--+Sheet Bodies: 0
+|  |  |  |  |  |  |--+End Assembly: 8
+|  |  |  |  |  |  |--+Begin Assembly: 8
+|  |  |  |  |  |  |--+Created SE Assembly File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\WS_S_BTM_BKT_THM_CU_NEW_ASM.stp.STEP_0.asm
+|  |  |  |  |  |  |  |--+Created SE Part File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\WS_S_BTM_BKT_THM_CU_NEW.stp.STEP_0.par
+|  |  |  |  |  |  |  |--+Created SE Part File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\WS_SCREW_M2X2L.stp.STEP_0.par
+|  |  |  |  |  |  |  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\WS_SCREW_M2X2L.stp.STEP_0.par
+|  |  |  |  |  |  |  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\WS_SCREW_M2X2L.stp.STEP_0.par
+|  |  |  |  |  |  |  |--+Created SE Part File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\WS_THM_CU_MYLAR.stp.STEP_0.par
+|  |  |  |  |  |  |  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\WS_THM_CU_MYLAR.stp.STEP_0.par
+|  |  |  |  |  |  |  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\WS_THM_CU_MYLAR.stp.STEP_0.par
+|  |  |  |  |  |  |--+Total Parts: 10
+|  |  |  |  |  |  |--+Assemblies: 0
+|  |  |  |  |  |  |--+Solid Bodies: 10
+|  |  |  |  |  |  |--+Sheet Bodies: 0
+|  |  |  |  |  |  |--+End Assembly: 8
+|  |  |  |  |  |  |--+Created SE Part File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\WS_SHORT_BTM_BKT_C.stp.STEP_0.par
+|  |  |  |  |  |  |--+Created SE Part File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\TN_SHORT_BTM_BKT_T_MB_STANDOFF.stp.STEP_0.par
+|  |  |  |  |  |  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\TN_SHORT_BTM_BKT_T_MB_STANDOFF.stp.STEP_0.par
+|  |  |  |  |  |  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\TN_SHORT_BTM_BKT_T_MB_STANDOFF.stp.STEP_0.par
+|  |  |  |  |  |  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\TN_SHORT_BTM_BKT_T_MB_STANDOFF.stp.STEP_0.par
+|  |  |  |  |  |  |--+Created SE Part File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\TN_S_THERMAL_CU_STANDOFF.stp.STEP_0.par
+|  |  |  |  |  |  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\TN_S_THERMAL_CU_STANDOFF.stp.STEP_0.par
+|  |  |  |  |  |  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\TN_S_THERMAL_CU_STANDOFF.stp.STEP_0.par
+|  |  |  |  |  |  |--+Created SE Part File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\TN_S_VESA_BKT_STANDOFF.stp.STEP_0.par
+|  |  |  |  |  |  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\TN_S_VESA_BKT_STANDOFF.stp.STEP_0.par
+|  |  |  |  |  |  |--+Created SE Part File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\TN_RUBBER_FOOT.stp.STEP_0.par
+|  |  |  |  |  |  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\TN_RUBBER_FOOT.stp.STEP_0.par
+|  |  |  |  |  |  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\TN_RUBBER_FOOT.stp.STEP_0.par
+|  |  |  |  |  |  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\TN_RUBBER_FOOT.stp.STEP_0.par
+|  |  |  |  |  |  |--+Created SE Part File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\WS_SHORT_BTM_COVER_T_SCREW_1315.stp.STEP_0.par
+|  |  |  |  |  |  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\WS_SHORT_BTM_COVER_T_SCREW_1315.stp.STEP_0.par
+|  |  |  |  |  |  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\WS_SHORT_BTM_COVER_T_SCREW_1315.stp.STEP_0.par
+|  |  |  |  |  |  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\WS_SHORT_BTM_COVER_T_SCREW_1315.stp.STEP_0.par
+|  |  |  |  |  |  |--+Created SE Part File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\TN_C_RING.stp.STEP_0.par
+|  |  |  |  |  |  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\TN_C_RING.stp.STEP_0.par
+|  |  |  |  |  |  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\TN_C_RING.stp.STEP_0.par
+|  |  |  |  |  |  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\TN_C_RING.stp.STEP_0.par
+|  |  |  |  |  |  |--+Created SE Part File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\WS_SSD_THERMAL_PAD.stp.STEP_0.par
+|  |  |  |  |  |  |--+Created SE Part File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\WS_2242_STANDER_PAD.stp.STEP_0.par
+|  |  |  |  |  |  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\WS_THM_CU_MYLAR.stp.STEP_0.par
+|  |  |  |  |  |--+Total Parts: 36
+|  |  |  |  |  |--+Assemblies: 2
+|  |  |  |  |  |--+Solid Bodies: 34
+|  |  |  |  |  |--+Sheet Bodies: 0
+|  |  |  |  |  |--+End Assembly: 7
+|  |  |  |  |--+Total Parts: 4
+|  |  |  |  |--+Assemblies: 4
+|  |  |  |  |--+Solid Bodies: 0
+|  |  |  |  |--+Sheet Bodies: 0
+|  |  |  |  |--+End Assembly: 6
+|  |  |  |  |--+Begin Assembly: 6
+|  |  |  |  |--+Created SE Assembly File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\WS_ANTENNA_ASM_ASM.stp.STEP_0.asm
+|  |  |  |  |  |--+Begin Assembly: 7
+|  |  |  |  |  |--+Created SE Assembly File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\WS_NON_QI_ANT_CABLE_ASM-AWAN_ASM.stp.STEP_0.asm
+|  |  |  |  |  |  |--+Begin Assembly: 8
+|  |  |  |  |  |  |--+Created SE Assembly File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\WS_MAIN_NON_QI_AWAN_ASM.stp.STEP_0.asm
+|  |  |  |  |  |  |  |--+Created SE Part File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\WS_MAIN_NON_QI_AWAN-0731-0803.stp.STEP_0.par
+|  |  |  |  |  |  |--+Total Parts: 2
+|  |  |  |  |  |  |--+Assemblies: 0
+|  |  |  |  |  |  |--+Solid Bodies: 2
+|  |  |  |  |  |  |--+Sheet Bodies: 0
+|  |  |  |  |  |  |--+End Assembly: 8
+|  |  |  |  |  |  |--+Begin Assembly: 8
+|  |  |  |  |  |  |--+Created SE Assembly File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\WS_AUX_NON_QI_AWAN_ASM.stp.STEP_0.asm
+|  |  |  |  |  |  |  |--+Created SE Part File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\WS_AUX_NON_QI_AWAN-0731-0803.stp.STEP_0.par
+|  |  |  |  |  |  |--+Total Parts: 4
+|  |  |  |  |  |  |--+Assemblies: 0
+|  |  |  |  |  |  |--+Solid Bodies: 4
+|  |  |  |  |  |  |--+Sheet Bodies: 0
+|  |  |  |  |  |  |--+End Assembly: 8
+|  |  |  |  |  |--+Total Parts: 2
+|  |  |  |  |  |--+Assemblies: 2
+|  |  |  |  |  |--+Solid Bodies: 0
+|  |  |  |  |  |--+Sheet Bodies: 0
+|  |  |  |  |  |--+End Assembly: 7
+|  |  |  |  |--+Total Parts: 1
+|  |  |  |  |--+Assemblies: 1
+|  |  |  |  |--+Solid Bodies: 0
+|  |  |  |  |--+Sheet Bodies: 0
+|  |  |  |  |--+End Assembly: 6
+|  |  |  |--+Total Parts: 2
+|  |  |  |--+Assemblies: 2
+|  |  |  |--+Solid Bodies: 0
+|  |  |  |--+Sheet Bodies: 0
+|  |  |  |--+End Assembly: 5
+|  |  |--+Total Parts: 1
+|  |  |--+Assemblies: 1
+|  |  |--+Solid Bodies: 0
+|  |  |--+Sheet Bodies: 0
+|  |  |--+End Assembly: 4
+|  |--+Total Parts: 1
+|  |--+Assemblies: 1
+|  |--+Solid Bodies: 0
+|  |--+Sheet Bodies: 0
+|  |--+End Assembly: 3
+|  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\hexa csunk flathd screw_iso_ISO 14581 M3x8x8-N_0.par
+|  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\hexa csunk flathd screw_iso_ISO 14581 M3x8x8-N_0.par
+|  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\hexa csunk flathd screw_iso_ISO 14581 M3x8x8-N_0.par
+|  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\hexa csunk flathd screw_iso_ISO 14581 M3x8x8-N_0.par
+|--+Total Parts: 19
+|--+Assemblies: 1
+|--+Solid Bodies: 18
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Created SE Assembly File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\frame_module_0.asm
+|  |--+Begin Assembly: 3
+|  |--+Created SE Assembly File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\bottom_plate_0.asm
+|  |  |--+Created SE Part File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\bottom_plate_back_left_0.par
+|  |  |--+Created SE Part File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\bottom_plate_back_right_0.par
+|  |  |--+Created SE Part File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\bottom_plate_front_0.par
+|  |--+Total Parts: 6
+|  |--+Assemblies: 0
+|  |--+Solid Bodies: 6
+|  |--+Sheet Bodies: 0
+|  |--+End Assembly: 3
+|  |--+Begin Assembly: 3
+|  |--+Created SE Assembly File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\top_plate_0.asm
+|  |  |--+Created SE Part File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\top_plate_back_left_0.par
+|  |  |--+Created SE Part File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\top_plate_back_right_0.par
+|  |  |--+Created SE Part File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\top_plate_front_concentric_0.par
+|  |--+Total Parts: 6
+|  |--+Assemblies: 0
+|  |--+Solid Bodies: 6
+|  |--+Sheet Bodies: 0
+|  |--+End Assembly: 3
+|  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\spacer_40mm_0.par
+|  |--+Created SE Part File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\spacer_15mm_0.par
+|  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\spacer_15mm_0.par
+|  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\spacer_40mm_0.par
+|  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\spacer_15mm_0.par
+|  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\spacer_40mm_0.par
+|  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\spacer_15mm_0.par
+|  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\spacer_40mm_0.par
+|  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\spacer_15mm_0.par
+|  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\spacer_40mm_0.par
+|  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\spacer_15mm_0.par
+|  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\spacer_40mm_0.par
+|  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\spacer_15mm_0.par
+|  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\spacer_40mm_0.par
+|  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\spacer_15mm_0.par
+|  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\spacer_40mm_0.par
+|  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\spacer_15mm_0.par
+|  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\spacer_40mm_0.par
+|  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\spacer_15mm_0.par
+|  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\spacer_40mm_0.par
+|  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\spacer_15mm_0.par
+|  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\spacer_40mm_0.par
+|  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\spacer_15mm_0.par
+|  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\spacer_40mm_0.par
+|  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\hexa csunk flathd screw_iso_ISO 14581 M3x8x8-N_0.par
+|  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\hexa csunk flathd screw_iso_ISO 14581 M3x8x8-N_0.par
+|  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\hexa csunk flathd screw_iso_ISO 14581 M3x8x8-N_0.par
+|  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\hexa csunk flathd screw_iso_ISO 14581 M3x8x8-N_0.par
+|  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\hexa csunk flathd screw_iso_ISO 14581 M3x8x8-N_0.par
+|  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\hexa csunk flathd screw_iso_ISO 14581 M3x8x8-N_0.par
+|  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\hexa csunk flathd screw_iso_ISO 14581 M3x8x8-N_0.par
+|  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\hexa csunk flathd screw_iso_ISO 14581 M3x8x8-N_0.par
+|  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\hexa csunk flathd screw_iso_ISO 14581 M3x8x8-N_0.par
+|  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\hexa csunk flathd screw_iso_ISO 14581 M3x8x8-N_0.par
+|  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\hexa csunk flathd screw_iso_ISO 14581 M3x8x8-N_0.par
+|  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\hexa csunk flathd screw_iso_ISO 14581 M3x8x8-N_0.par
+|  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\hexa csunk flathd screw_iso_ISO 14581 M3x8x8-N_0.par
+|  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\hexa csunk flathd screw_iso_ISO 14581 M3x8x8-N_0.par
+|  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\hexa csunk flathd screw_iso_ISO 14581 M3x8x8-N_0.par
+|  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\hexa csunk flathd screw_iso_ISO 14581 M3x8x8-N_0.par
+|  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\hexa csunk flathd screw_iso_ISO 14581 M3x8x8-N_0.par
+|  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\hexa csunk flathd screw_iso_ISO 14581 M3x8x8-N_0.par
+|  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\hexa csunk flathd screw_iso_ISO 14581 M3x8x8-N_0.par
+|  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\hexa csunk flathd screw_iso_ISO 14581 M3x8x8-N_0.par
+|  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\hexa csunk flathd screw_iso_ISO 14581 M3x8x8-N_0.par
+|  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\hexa csunk flathd screw_iso_ISO 14581 M3x8x8-N_0.par
+|--+Total Parts: 62
+|--+Assemblies: 2
+|--+Solid Bodies: 60
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\hexa csunk flathd screw_iso_ISO 14581 M3x8x8-N_0.par
+|--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\hexa csunk flathd screw_iso_ISO 14581 M3x8x8-N_0.par
+|--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\hexa csunk flathd screw_iso_ISO 14581 M3x8x8-N_0.par
+|--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\hexa csunk flathd screw_iso_ISO 14581 M3x8x8-N_0.par
+|--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\hexa csunk flathd screw_iso_ISO 14581 M3x8x8-N_0.par
+|--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\hexa csunk flathd screw_iso_ISO 14581 M3x8x8-N_0.par
+|--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\hexa csunk flathd screw_iso_ISO 14581 M3x8x8-N_0.par
+|--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\hexa csunk flathd screw_iso_ISO 14581 M3x8x8-N_0.par
+|--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\hexa csunk flathd screw_iso_ISO 14581 M3x8x8-N_0.par
+|--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\hexa csunk flathd screw_iso_ISO 14581 M3x8x8-N_0.par
+|--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\hexa csunk flathd screw_iso_ISO 14581 M3x8x8-N_0.par
+|--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\hexa csunk flathd screw_iso_ISO 14581 M3x8x8-N_0.par
+|--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\hexa csunk flathd screw_iso_ISO 14581 M3x8x8-N_0.par
+|--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\hexa csunk flathd screw_iso_ISO 14581 M3x8x8-N_0.par
+|--+Created SE Part File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\torque nut 01_iso_ISO 7040-M3-N_0.par
+|--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\torque nut 01_iso_ISO 7040-M3-N_0.par
+|--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\torque nut 01_iso_ISO 7040-M3-N_0.par
+|--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\torque nut 01_iso_ISO 7040-M3-N_0.par
+|--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\torque nut 01_iso_ISO 7040-M3-N_0.par
+|--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\torque nut 01_iso_ISO 7040-M3-N_0.par
+|--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\torque nut 01_iso_ISO 7040-M3-N_0.par
+|--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\torque nut 01_iso_ISO 7040-M3-N_0.par
+|--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\torque nut 01_iso_ISO 7040-M3-N_0.par
+|--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\torque nut 01_iso_ISO 7040-M3-N_0.par
+|--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\torque nut 01_iso_ISO 7040-M3-N_0.par
+|--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\torque nut 01_iso_ISO 7040-M3-N_0.par
+|--+Begin Assembly: 2
+|--+Created SE Assembly File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\Kere_uus_terve.asm
+|  |--+Created SE Part File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\Kere_tagumine_alumine.par
+|  |--+Created SE Part File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\Kere_tagumine_keskmine.par
+|  |--+Created SE Part File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\Kere_tagumine_ylemine.par
+|  |--+Created SE Part File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\Kere_eesmine_alumine.par
+|  |--+Created SE Part File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\Kere_eesmine_keskmine.par
+|  |--+Created SE Part File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\Kere_eesmine_ylemine.par
+|  |--+Created SE Part File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\Kere_vahelyli_alumine.par
+|  |--+Created SE Part File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\Kere_kylje_kinniti.par
+|  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\Kere_kylje_kinniti.par
+|  |--+Created SE Part File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\M3x20_Stainless Steel Pan Head Torx Screws.par
+|  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\M3x20_Stainless Steel Pan Head Torx Screws.par
+|  |--+Created SE Part File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\M3x8_Stainless Steel Pan Head Torx Screws.par
+|  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\M3x8_Stainless Steel Pan Head Torx Screws.par
+|  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\M3x20_Stainless Steel Pan Head Torx Screws.par
+|  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\M3x20_Stainless Steel Pan Head Torx Screws.par
+|  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\M3x8_Stainless Steel Pan Head Torx Screws.par
+|  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\M3x8_Stainless Steel Pan Head Torx Screws.par
+|  |--+Created SE Part File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\Kere_vahelyli_ylemine.par
+|  |--+Created SE Part File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\M3x6_Stainless Steel Pan Head Torx Screws.par
+|  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\M3x6_Stainless Steel Pan Head Torx Screws.par
+|  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\M3x6_Stainless Steel Pan Head Torx Screws.par
+|  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\M3x6_Stainless Steel Pan Head Torx Screws.par
+|  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\Kere_kylje_kinniti.par
+|  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\Kere_kylje_kinniti.par
+|  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\M3x6_Stainless Steel Pan Head Torx Screws.par
+|  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\M3x6_Stainless Steel Pan Head Torx Screws.par
+|  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\M3x6_Stainless Steel Pan Head Torx Screws.par
+|  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\M3x6_Stainless Steel Pan Head Torx Screws.par
+|  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\M3x8_Stainless Steel Pan Head Torx Screws.par
+|  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\M3x8_Stainless Steel Pan Head Torx Screws.par
+|  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\M3x8_Stainless Steel Pan Head Torx Screws.par
+|  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\M3x8_Stainless Steel Pan Head Torx Screws.par
+|  |--+Begin Assembly: 3
+|  |--+Created SE Assembly File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\Kael_assembly.asm
+|  |  |--+Created SE Part File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\Kael_eesmine.par
+|  |  |--+Created SE Part File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\Kael_tagumine.par
+|  |--+Total Parts: 4
+|  |--+Assemblies: 0
+|  |--+Solid Bodies: 4
+|  |--+Sheet Bodies: 0
+|  |--+End Assembly: 3
+|  |--+Created SE Part File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\M3x18_Stainless Steel Pan Head Torx Screws.par
+|  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\M3x18_Stainless Steel Pan Head Torx Screws.par
+|  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\M3x18_Stainless Steel Pan Head Torx Screws.par
+|  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\M3x6_Stainless Steel Pan Head Torx Screws.par
+|  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\M3x6_Stainless Steel Pan Head Torx Screws.par
+|  |--+Created SE Part File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\M3x10_Stainless Steel Pan Head Torx Screws.par
+|  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\M3x10_Stainless Steel Pan Head Torx Screws.par
+|  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\M3x10_Stainless Steel Pan Head Torx Screws.par
+|  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\M3x10_Stainless Steel Pan Head Torx Screws.par
+|  |--+Begin Assembly: 3
+|  |--+Created SE Assembly File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\Tahvel.asm
+|  |  |--+Created SE Part File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\Touchscreen.par
+|  |  |--+Created SE Part File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\Tahvli_hoidja.par
+|  |--+Total Parts: 4
+|  |--+Assemblies: 0
+|  |--+Solid Bodies: 4
+|  |--+Sheet Bodies: 0
+|  |--+End Assembly: 3
+|  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\M3x8_Stainless Steel Pan Head Torx Screws.par
+|  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\M3x8_Stainless Steel Pan Head Torx Screws.par
+|  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\M3x8_Stainless Steel Pan Head Torx Screws.par
+|  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\M3x8_Stainless Steel Pan Head Torx Screws.par
+|  |--+Begin Assembly: 3
+|  |--+Created SE Assembly File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\Pea_assembly.asm
+|  |  |--+Created SE Part File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\Pea_vahelyli.par
+|  |  |--+Created SE Part File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\Pea_kaamera_kinnitus.par
+|  |  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\Pea_vahelyli.par
+|  |  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\Pea_vahelyli.par
+|  |  |--+Created SE Part File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\Pea_ekraan.par
+|  |  |--+Created SE Part File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\Realsense_D435.stp_0_0.par
+|  |  |--+Created SE Part File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\Pea_tagumine_kinnitus.par
+|  |  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\Pea_vahelyli.par
+|  |  |--+Created SE Part File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\Pea_eesmine.par
+|  |  |--+Created SE Part File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\Pea_tagumine.par
+|  |  |--+Created SE Part File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\Pea_ylemine.par
+|  |  |--+Created SE Part File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\Pea_LCD_4in.par
+|  |  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\M3x18_Stainless Steel Pan Head Torx Screws.par
+|  |  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\M3x18_Stainless Steel Pan Head Torx Screws.par
+|  |  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\M3x18_Stainless Steel Pan Head Torx Screws.par
+|  |  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\M3x18_Stainless Steel Pan Head Torx Screws.par
+|  |  |--+Created SE Part File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\M2_5x6_Stainless Steel Pan Head Torx Screws.par
+|  |  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\M2_5x6_Stainless Steel Pan Head Torx Screws.par
+|  |  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\M2_5x6_Stainless Steel Pan Head Torx Screws.par
+|  |  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\M2_5x6_Stainless Steel Pan Head Torx Screws.par
+|  |  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\M3x18_Stainless Steel Pan Head Torx Screws.par
+|  |  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\M3x18_Stainless Steel Pan Head Torx Screws.par
+|  |  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\M3x18_Stainless Steel Pan Head Torx Screws.par
+|  |  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\M3x18_Stainless Steel Pan Head Torx Screws.par
+|  |  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\M3x18_Stainless Steel Pan Head Torx Screws.par
+|  |  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\M3x18_Stainless Steel Pan Head Torx Screws.par
+|  |  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\M3x18_Stainless Steel Pan Head Torx Screws.par
+|  |  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\M3x18_Stainless Steel Pan Head Torx Screws.par
+|  |  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\M3x6_Stainless Steel Pan Head Torx Screws.par
+|  |  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\M3x6_Stainless Steel Pan Head Torx Screws.par
+|  |  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\M3x8_Stainless Steel Pan Head Torx Screws.par
+|  |  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\M3x8_Stainless Steel Pan Head Torx Screws.par
+|  |  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\M3x8_Stainless Steel Pan Head Torx Screws.par
+|  |  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\M3x8_Stainless Steel Pan Head Torx Screws.par
+|  |--+Total Parts: 44
+|  |--+Assemblies: 0
+|  |--+Solid Bodies: 44
+|  |--+Sheet Bodies: 0
+|  |--+End Assembly: 3
+|  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\M3x6_Stainless Steel Pan Head Torx Screws.par
+|  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\M3x6_Stainless Steel Pan Head Torx Screws.par
+|  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\M3x6_Stainless Steel Pan Head Torx Screws.par
+|  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\M3x6_Stainless Steel Pan Head Torx Screws.par
+|  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\M3x6_Stainless Steel Pan Head Torx Screws.par
+|  |--+Begin Assembly: 3
+|  |--+Created SE Assembly File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\Jase_parem_assembly.asm
+|  |  |--+Created SE Part File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\Jase_ylemine_parem.par
+|  |  |--+Created SE Part File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\Jase_ylemine_vasak.par
+|  |  |--+Created SE Part File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\Jase_kesmine.par
+|  |  |--+Created SE Part File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\Jase_alumine_parem.par
+|  |  |--+Created SE Part File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\Jase_alumine_vasak.par
+|  |  |--+Created SE Part File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\Jase_ylemine_kinniti.par
+|  |  |--+Created SE Part File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\Jase_vahelyli.par
+|  |  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\M3x18_Stainless Steel Pan Head Torx Screws.par
+|  |  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\M3x18_Stainless Steel Pan Head Torx Screws.par
+|  |  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\M3x18_Stainless Steel Pan Head Torx Screws.par
+|  |  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\M3x18_Stainless Steel Pan Head Torx Screws.par
+|  |  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\M3x18_Stainless Steel Pan Head Torx Screws.par
+|  |--+Total Parts: 19
+|  |--+Assemblies: 0
+|  |--+Solid Bodies: 19
+|  |--+Sheet Bodies: 0
+|  |--+End Assembly: 3
+|  |--+Begin Assembly: 3
+|  |--+Created SE Assembly File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\Jase_vasak_assembly.asm
+|  |  |--+Created SE Part File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\Jase_vasak_alumine_vasak.par
+|  |  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\Jase_kesmine.par
+|  |  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\Jase_vahelyli.par
+|  |  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\M3x18_Stainless Steel Pan Head Torx Screws.par
+|  |  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\Jase_ylemine_kinniti.par
+|  |  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\M3x18_Stainless Steel Pan Head Torx Screws.par
+|  |  |--+Created SE Part File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\Jase_vasak_alumine_parem.par
+|  |  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\Jase_ylemine_vasak.par
+|  |  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\Jase_ylemine_parem.par
+|  |  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\M3x18_Stainless Steel Pan Head Torx Screws.par
+|  |  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\M3x18_Stainless Steel Pan Head Torx Screws.par
+|  |  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\M3x18_Stainless Steel Pan Head Torx Screws.par
+|  |--+Total Parts: 14
+|  |--+Assemblies: 0
+|  |--+Solid Bodies: 14
+|  |--+Sheet Bodies: 0
+|  |--+End Assembly: 3
+|  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\Jase_ylemine_kinniti.par
+|  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\Jase_ylemine_kinniti.par
+|  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\M3x18_Stainless Steel Pan Head Torx Screws.par
+|  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\M3x10_Stainless Steel Pan Head Torx Screws.par
+|  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\M3x10_Stainless Steel Pan Head Torx Screws.par
+|  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\M3x18_Stainless Steel Pan Head Torx Screws.par
+|  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\M3x10_Stainless Steel Pan Head Torx Screws.par
+|  |--+Reusing File C:\Users\Admin\Desktop\Lõputöö artikklid\Repo jaoks\Humanoid\Uus repo\STEP files\Humanoid\M3x10_Stainless Steel Pan Head Torx Screws.par
+|--+Total Parts: 77
+|--+Assemblies: 5
+|--+Solid Bodies: 72
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
++Total Parts: 34
++Assemblies: 5
++Solid Bodies: 29
++Sheet Bodies: 0
++End Assembly: 1
 Translation process completed
-Time required to translate:00 : 00 : 26
+Total time required to translate and post process:00 : 01 : 06
